@@ -1,1 +1,1 @@
-Hi, I'm just some guy on the internet trying to make video games. Currently working on a few projects, primarily a Godot platformer.
+Hi, I'm an amateur game developer currently working on a few things, mainly Genre Crash, an IKEMEN GO-based fighting game.
